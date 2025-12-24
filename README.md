@@ -23,10 +23,12 @@ This project is an offline AI assistant that can:
 - Android (optional)
 
 ## How to Run
-1. Download the code
+1. Download the code 
 2. Run main.py
 3. Use the assistant offline
 
 ## Team Members
-- Name 1
-- Name 2
+- Madhumati yaliwal 
+- Payal naik
+- Vandana patil
+- Bhavani maruti Mallannavar 
